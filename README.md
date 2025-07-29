@@ -1,14 +1,14 @@
-# NanoBiT-BRET
+# Semisynthetic, multicolor probes for bioluminescence imaging
 
 <div align="center">
   <img src="TOC.png" alt="TOC" width="500"/>
 </div>
 
-## `notebook/` folder
+## `/notebook` folder
 
 Jupyter notebooks for calculating BRET efficiency, visualizing spectral data and tissue mimic experiments.
 
-## `data/` folder
+## `/data` folder
 
 **`mimic_tissue_experiment.csv`** 
 - Contains experimental data for tissue mimic experiments
