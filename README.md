@@ -1,7 +1,7 @@
 # Semisynthetic, multicolor probes for bioluminescence imaging
 
 <div align="center">
-  <img src="TOC.png" alt="TOC" width="500"/>
+  <img src="TOC_gif.gif" alt="TOC" width="700"/>
 </div>
 
 ## `/notebook` folder
